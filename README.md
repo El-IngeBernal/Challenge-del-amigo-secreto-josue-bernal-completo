@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto para Alura LATAM y Oracle One Education! :DDD
+# 🎁 Amigo Secreto para Alura LATAM y Oracle One Education!
 
 ¡Bienvenido a mi aportación del **Challenge del Amigo Secreto**! Un programa simple en JavaScript para sortear amigos secretos de manera rápida. 🥳
 
