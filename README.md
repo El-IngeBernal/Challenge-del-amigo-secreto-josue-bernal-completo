@@ -13,7 +13,7 @@
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/El-IngeBernal/Challenge-del-amigo-secreto-josue-bernal-completo.git
    ```
 2. **Abre el archivo `index.html` en tu navegador.**
 3. **¡Empieza a añadir nombres y sortear!** 🎉
