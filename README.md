@@ -27,4 +27,4 @@ Entra a: https://el-ingebernal.github.io/Challenge-del-amigo-secreto-josue-berna
 - **CSS** 🎨
 - **JavaScript** 🚀
 ---
-_Hecho con ❤️ por Josué "El Inge Bernal" para todos ustedes <3.
+Hecho con ❤️ por Josué "El Inge Bernal" para todos ustedes <3.
